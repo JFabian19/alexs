@@ -1,0 +1,64 @@
+﻿Categoría,Plato,Descripción/Presentación,Chica/Personal,Mediana,Familiar
+Sudados,Sudado de pescado,Pesca del día,S/ 40.00,S/ 50.00,S/ 60.00
+Sudados,Sudado mixto,Pescado con mariscos,S/ 40.00,S/ 55.00,S/ 65.00
+Sudados,Sudado de filete,Pescado en filete,S/ 50.00,S/ 60.00,S/ 80.00
+Sudados,Sudado mixto de filete,Filete de pescado con mariscos,S/ 55.00,S/ 65.00,S/ 85.00
+Sudados,Parihuela,Pescado con variedad de mariscos,S/ 40.00,S/ 55.00,S/ 65.00
+Chicharrones,Chicharrón de pota,,S/ 30.00,S/ 40.00,S/ 50.00
+Chicharrones,Chicharrón de pescado,,S/ 40.00,S/ 50.00,S/ 60.00
+Chicharrones,Chicharrón mixto,Pescado y mariscos,S/ 50.00,S/ 60.00,S/ 75.00
+Jaleas,Jalea de pescado,Pescado frito con chicharrón de pescado,S/ 50.00,S/ 60.00,S/ 70.00
+Jaleas,Jalea mixta,Pescado con mariscos,S/ 55.00,S/ 65.00,S/ 80.00
+Jaleas,Jalea especial,Pescado en filete,S/ 60.00,S/ 70.00,S/ 80.00
+Jaleas,Jalea especial mixta,Filete de pescado con mariscos,S/ 65.00,S/ 75.00,S/ 85.00
+Jaleas,Encebollado de pescado,,S/ 40.00,S/ 50.00,S/ 60.00
+Jaleas,Pescado a lo macho,Pescado frito con salsa de mariscos,S/ 40.00,S/ 50.00,S/ 60.00
+Ceviches,Ceviche de pota,,S/ 30.00,S/ 40.00,S/ 50.00
+Ceviches,Ceviche de pescado,,S/ 40.00,S/ 50.00,S/ 60.00
+Ceviches,Ceviche mixto,Pescado con mariscos,S/ 40.00,S/ 55.00,S/ 65.00
+Ceviches,Tiradito,Láminas de pescado bañadas en salsa de ají amarillo,S/ 40.00,S/ 50.00,S/ 60.00
+Ceviches norteños,Ceviche de caballa,,S/ 40.00,S/ 50.00,S/ 60.00
+Ceviches norteños,Encebichado de caballa,,S/ 30.00,S/ 40.00,S/ 50.00
+Ceviches norteños,Encebichado de pescado blanco,,S/ 40.00,S/ 50.00,S/ 60.00
+Arroces,Chaufa de pescado,,S/ 20.00,S/ 40.00,S/ 60.00
+Arroces,Chaufa de mariscos,,S/ 25.00,S/ 45.00,S/ 65.00
+Arroces,Arroz con mariscos,,S/ 25.00,S/ 45.00,S/ 65.00
+Arroces,Arroz con pescado frito,,S/ 20.00,S/ 40.00,S/ 60.00
+Fuentes marinas,Ronda marina,Ceviche + chicharrón + arroz con mariscos + chaufa de mariscos + leche de tigre,S/ 60.00,S/ 70.00,S/ 80.00
+Fuentes marinas,Trío marino,Ceviche + chicharrón + arroz con mariscos,S/ 50.00,S/ 60.00,S/ 70.00
+Fuentes marinas,Dúo marino,Ceviche de pescado + chicharrón de pescado,S/ 40.00,S/ 50.00,S/ 60.00
+Norteños,Seco de Chabelo,,S/ 30.00,S/ 40.00,S/ 50.00
+Norteños,Carne aliñada,,S/ 30.00,S/ 40.00,S/ 50.00
+Norteños,Arroz con pato,,S/ 30.00,S/ 50.00,S/ 75.00
+Norteños,Seco de carnero,,S/ 25.00,S/ 50.00,S/ 75.00
+Norteños,Pollo a la parrilla,,S/ 20.00,S/ 40.00,S/ 60.00
+Especiales,Trucha frita,Personal,S/ 20.00,,
+Especiales,Trucha frita,Mediana,S/ 40.00,,
+Especiales,Cuy frito,Personal,S/ 25.00,,
+Especiales,Cuy frito,Cuy entero,S/ 50.00,,
+Porciones,Sarandaja,,S/ 5.00,,
+Porciones,Cancha,,S/ 5.00,,
+Porciones,Yuca,,S/ 5.00,,
+Porciones,Camote,,S/ 5.00,,
+Porciones,Mote,,S/ 5.00,,
+Porciones,Arroz,,S/ 5.00,,
+Porciones,Chifle,,S/ 5.00,,
+Porciones,Cancha con yuca,,S/ 7.00,,
+Porciones,Camote con yuca,,S/ 7.00,,
+Porciones,Sarandaja con ensalada,,S/ 7.00,,
+Porciones,Camote con mote,,S/ 7.00,,
+Porciones,Ensalada criolla,,S/ 8.00,,
+Bebidas,Gaseosa chica,,S/ 4.00,,
+Bebidas,Gaseosa 1/2 litro,,S/ 5.00,,
+Bebidas,Gaseosa 1 litro,,S/ 8.00,,
+Bebidas,Gaseosa 1 1/2 litro,,S/ 10.00,,
+Bebidas,Gaseosa 3 litros,,S/ 18.00,,
+Bebidas,Cerveza Cristal,,S/ 9.00,,
+Bebidas,Cerveza Pilsen,,S/ 9.00,,
+Bebidas,Cerveza de trigo,,S/ 10.00,,
+Bebidas,Cerveza negra,,S/ 10.00,,
+Bebidas,Agua mineral,,S/ 3.00,,
+Bebidas,Refresco de maracuyá,,S/ 10.00,,
+Bebidas,Chicha morada,,S/ 10.00,,
+Bebidas,Chicha de jora,,S/ 10.00,,
+Bebidas,Leche de tigre,,S/ 15.00,,
